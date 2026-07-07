@@ -1,0 +1,20 @@
+{
+  "strategy": "max_sharpe",
+  "risk_free_rate": 0.045,
+  "weights": {
+    "TSLA": 0.0,
+    "BND": 0.0,
+    "SPY": 1.0
+  },
+  "expected_return": 0.12774563475222359,
+  "volatility": 0.17818726281658204,
+  "sharpe_ratio": 0.4643745767473752,
+  "minvol_weights": {
+    "TSLA": 0.0,
+    "BND": 0.92985,
+    "SPY": 0.07015
+  },
+  "minvol_return": 0.0010133220381215967,
+  "minvol_volatility": 0.05652552819925804,
+  "minvol_sharpe": -0.7781736741463262
+}
